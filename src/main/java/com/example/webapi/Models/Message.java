@@ -17,6 +17,5 @@ public class Message {
     
     //nothing to add here 
     
-    
-    //whatsgood
+    //something's good
 }
