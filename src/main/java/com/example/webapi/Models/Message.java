@@ -18,4 +18,6 @@ public class Message {
     //nothing to add here 
     
     //something's good
+
+    //and good
 }
